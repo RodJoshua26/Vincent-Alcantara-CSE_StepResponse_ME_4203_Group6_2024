@@ -1,5 +1,7 @@
 CSE_StepResponse_ME_4203_Group6_2024
 
+Laboratory Activity #2
+
 1. Second Order Underdamped System
 
    Lagaya, Rod Joshua B.
@@ -7,7 +9,6 @@ CSE_StepResponse_ME_4203_Group6_2024
  ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/af3d4802-3dc9-46fc-8a74-e3b1caf066db)
  ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/8104ede8-84c2-4b8f-b8d7-81ea69606145)
  ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/9fc6dfa5-fd6b-4577-96c8-4ee82170eaa1)
-
 
 2. Second Order Overdamped System
 
@@ -24,7 +25,6 @@ CSE_StepResponse_ME_4203_Group6_2024
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/6e2bc9d7-1d32-4d38-9823-6acb25aa38d1)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/a3497316-c1e7-4eb6-ac65-cdf85ff0192c)
 ![image](https://github.com/Vincent-Alcantara/Vincent-Alcantara-CSE_StepResponse_ME_4203_Group6_2024/assets/160557061/7b8ad2f5-2816-4cab-9c05-fabbecc12c7e)
-
 
 4. First Order System
 
